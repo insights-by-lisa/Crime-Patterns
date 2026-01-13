@@ -35,8 +35,8 @@ Accurate crime categorisation combined with an understanding of seasonal trends 
 ---
 
 ## Data Files
-- [Raw Crime Data – Table 1](./Merged%20Crime%20Data%2010-2024%20to%2009-2025.xlsx)
-- [Raw Crime Data – Table 2](./Additional%20table%20-%20Constabulary%20Info.xlsx)
+- Raw Crime Data – Merged Crime Data 10-2024 to 09-2025
+- Raw Crime Data - Additional table - Constabulary Info
 
 ## Project Presentation
 - [Full Project Presentation (PDF)](./Project%20Presentation%20-%20Crime%20Data.pdf)
