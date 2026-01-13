@@ -1,4 +1,4 @@
-# Data Technician – Crime Analysis Project
+# Crime Analysis Project
 
 ## Executive Summary
 This project analyses **12 months of recorded crime data** across **Northumbria, Durham, and Cleveland** using **population- and area-adjusted metrics**. Adjusting for geographic and population context prevents misleading conclusions based solely on raw totals.  
