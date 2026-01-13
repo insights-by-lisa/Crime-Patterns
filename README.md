@@ -10,7 +10,7 @@ The analysis identifies **Violence Against the Person** as the most prevalent an
 - The dataset lacks victim-level detail, limiting the ability to assess individual risk or target safeguarding activity.  
 - Population-adjusted crime rates highlight areas where resources should be focused to ensure **fair and effective deployment**.
 
-![Crime Patterns Over Time](Crime_Patterns_Over_Time_Image.png)
+<img src="Crime_Patterns_Over_Time_Image.png" alt="Crime Patterns" width="600">
 
 ## Recommendations
 
@@ -35,11 +35,11 @@ Accurate crime categorisation combined with an understanding of seasonal trends 
 ---
 
 ## Data Files
-- [Raw Crime Data – Table 1](Merged Crime Data 10-2024 to 09-2025.xlsx)  
-- [Raw Crime Data – Table 2](Additional table - Constabulary Info.xlsx)  
+[Raw Crime Data – Table 1](Merged Crime Data 10-2024 to 09-2025.xlsx)  
+[Raw Crime Data – Table 2](Additional table - Constabulary Info.xlsx)  
 
 ## Project Presentation
-- [Full Project Presentation (PDF)](.Project Presentation - Crime Data.pdf)
+[Full Project Presentation (PDF)](.Project Presentation - Crime Data.pdf)
 
 ## Future Directions
 - Designing **workforce planning dashboards** for HR to optimise staffing. 
