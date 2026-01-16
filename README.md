@@ -45,7 +45,7 @@ Accurate crime categorisation combined with an understanding of seasonal trends 
 - Designing **workforce planning dashboards** for HR to optimise staffing. 
 - Incorporate **cybercrime datasets** to extend analysis into digital offences.  
 - Explore **related datasets** deprivation indices, weather data, or public events, to test additional hypotheses about crime drivers.  
-- Extend the analysis period and develop a **predictive element*.
+- Extend the analysis period and develop a **predictive element**.
 - Enhance spatial and temporal analyses to identify hotspots and constabulary-specific patterns, **enabling more targeted insights**.
 
 
